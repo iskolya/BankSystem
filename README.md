@@ -17,19 +17,19 @@ This particular software application offers a comprehensive bank system manageme
 
 💉 Requirements
 
-Java Development Kit (JDK) 8 or above
-JavaFX SDK (included with JavaFX distributions starting from JDK 11)
-IntelliJ IDEA
-SceenBuilder
+- Java Development Kit (JDK) 8 or above
+- JavaFX SDK (included with JavaFX distributions starting from JDK 11)
+- IntelliJ IDEA
+- SceenBuilder
 
 🏃‍♂️ Getting Started
 
-Clone the repository: git clone https://github.com/iskolya/BankSystem.git
-Open the project in your preferred IDE.
-Configure the project to use the JDK and JavaFX SDK.
-Build the project to ensure all dependencies are resolved.
-Run the App class located in the src directory.
-The Bank System should launch successfully.
+1. Clone the repository: git clone https://github.com/iskolya/BankSystem.git
+2. Open the project in your preferred IDE.
+3. Configure the project to use the JDK and JavaFX SDK.
+4. Build the project to ensure all dependencies are resolved.
+5. Run the App class located in the src directory.
+6. The Bank System should launch successfully.
 
 Things to be improved
 - Dashboard
